@@ -78,5 +78,5 @@ Answer: A
 ### Q10: Each programming language has some features that are common to each other
 - A: True
 - B: False
-
+- 
 Answer: A
