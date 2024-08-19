@@ -23,6 +23,8 @@ Answer: B
 ### Q3: The touch command allows the user to create files
 - A: True
 - B: False
+
+Answer: A
 ---
 
 ### Q4: Which of the following is an IDE?
